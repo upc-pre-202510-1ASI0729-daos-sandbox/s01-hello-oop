@@ -23,7 +23,13 @@
 hs_err_pid*
 replay_pid*
 
-
+# Doxygen
+/html
+/rtf
+/latex
+/xml
+/man
+/docbook
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
