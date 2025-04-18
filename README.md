@@ -1,4 +1,4 @@
-# OOP Sample
+# s01-hello-oop
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 
@@ -31,8 +31,8 @@ The following class diagram illustrates the structure of the application, includ
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/upc-pre-202510-1asi0729-sandbox/oop-sample.git
-   cd oop-sample
+   git clone https://github.com/upc-pre-202510-1ASI0729-daos-sandbox/s01-hello-oop.git
+   cd s01-hello-oop
 
 2. Build the project using Maven:
    ```bash
